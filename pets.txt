@@ -1,3 +1,5 @@
+toads
+possum
 cats
 dogs
 parrots
