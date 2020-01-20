@@ -6,3 +6,5 @@ parrots
 whales
 fish
 frog
+worm
+bird
