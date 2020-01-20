@@ -4,3 +4,5 @@ cats
 dogs
 parrots
 whales
+fish
+frog
